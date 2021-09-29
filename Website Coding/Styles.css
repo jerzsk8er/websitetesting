@@ -1,6 +1,6 @@
 .marvel {
     width: 100px;
-    height: 45px;
+    height: 40px;
 }
 
 div {
@@ -23,7 +23,7 @@ img {
     font-family: "Impact", Impact, monospace;
     background-color: crimson;
     color: white;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     padding-top: 50px;
 }
 
@@ -31,5 +31,9 @@ img {
     background-color: white;
 }
 
+.noir {
+    width: 360px;
+    height: 380px;
 }
+
 
