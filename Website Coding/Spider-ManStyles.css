@@ -1,0 +1,32 @@
+.marvel {
+    width: 100px;
+    height: 40px;
+}
+
+div {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+img {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 300px;
+}
+
+.jumbotron {
+    font-family: "Impact", Impact, monospace;
+    background-color: #B11313;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+.container {
+    background-color: white;
+}
