@@ -28,6 +28,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ziwCtekiuh94POaRCeFoXfbVou" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,7 +63,7 @@
       <workItem from="1636480318701" duration="887000" />
       <workItem from="1636864607008" duration="1542000" />
       <workItem from="1637185810441" duration="699000" />
-      <workItem from="1643343162001" duration="394000" />
+      <workItem from="1643343162001" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -69,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643343331114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="beep">
+      <created>1643344363696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643344363696</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
