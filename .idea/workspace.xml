@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
-      <change afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/images/code-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/images/code_1_-removebg-preview.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jayden\WebstormProjects\websitetesting\Website Coding\RandomShopSIte\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +77,7 @@
       <workItem from="1636864607008" duration="1542000" />
       <workItem from="1637185810441" duration="699000" />
       <workItem from="1643343162001" duration="2071000" />
-      <workItem from="1643424615698" duration="2273000" />
+      <workItem from="1643424615698" duration="3861000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -93,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643344464459</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="beep">
+      <created>1643428157318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643428157318</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
