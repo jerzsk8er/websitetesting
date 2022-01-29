@@ -7,6 +7,7 @@
     <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2021_JQuery_Study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -75,6 +76,9 @@
       <workItem from="1637185810441" duration="699000" />
       <workItem from="1643343162001" duration="2071000" />
       <workItem from="1643424615698" duration="6225000" />
+      <workItem from="1643434741248" duration="86000" />
+      <workItem from="1643484888379" duration="3749000" />
+      <workItem from="1643491084879" duration="3283000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -118,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643433858224</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="beep">
+      <created>1643434821008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643434821008</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
