@@ -1,0 +1,47 @@
+.header {
+    color: white;
+    background-color: #374657;
+}
+
+.nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-bar {
+    background: #000;
+    padding: 0;
+    color: white;
+}
+
+.nav li {
+    display: inline;
+    margin: 0;
+}
+
+.nav a {
+    display: block;
+    padding: .7em 1.25em;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid gray;
+}
+
+.nav a:link { color: white; }
+.nav a:visited { color: white; }
+
+.nav a:focus {
+    color: black;
+    background-color: white;
+}
+
+.nav a:hover {
+    color: white;
+    background-color: skyblue;
+}
+
+.nav a:active {
+    color: white;
+    background-color: skyblue;
+}
