@@ -1,16 +1,35 @@
 .container-fluid {
-    background-color: slategray;
+    /* background-color: #F2B646; */
+    background-color: #EBB387;
     color: white;
     padding: 4em;
 }
 
-img {
-    border: 1px solid black;
+.container1 {
+    width: 100%;
+}
+
+.footer {
+    color: white;
+    width: 100%;
+    padding: 1em;
+    background-color: black;
 }
 
 .header .text {
-    border: 1px solid black;
-    display: inline;
     text-align: center;
     font-size: 50px;
+}
+
+nav {
+    /* background-color: #664E1F; */
+    background-color: #EBB387;
+}
+
+.navbar {
+    color: white;
+}
+
+.nav-item {
+    margin-left: 2em;
 }
