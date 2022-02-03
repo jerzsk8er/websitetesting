@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_31_2022_10_56_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_31_2022_10_56_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +19,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,7 +48,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -55,8 +55,8 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jayden\WebstormProjects\websitetesting\Website Coding\RandomShopSIte\images" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jayyy\WebstormProjects\websitetesting\Websites\Into the Spider-Verse Spider-Man Index\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,62 +73,28 @@
       <workItem from="1636480318701" duration="887000" />
       <workItem from="1636864607008" duration="1542000" />
       <workItem from="1637185810441" duration="699000" />
-      <workItem from="1643343162001" duration="2071000" />
-      <workItem from="1643424615698" duration="6225000" />
-      <workItem from="1643434741248" duration="86000" />
-      <workItem from="1643484888379" duration="3749000" />
-      <workItem from="1643491084879" duration="3283000" />
+      <workItem from="1643049305680" duration="132000" />
+      <workItem from="1643050748742" duration="860000" />
+      <workItem from="1643659774363" duration="334000" />
+      <workItem from="1643660141777" duration="1241000" />
+      <workItem from="1643662336197" duration="58000" />
+      <workItem from="1643662396329" duration="3053000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
-      <created>1643343331114</created>
+      <created>1643134781594</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1643343331114</updated>
+      <updated>1643134781594</updated>
     </task>
     <task id="LOCAL-00002" summary="beep">
-      <created>1643344363696</created>
+      <created>1643662298960</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1643344363696</updated>
+      <updated>1643662298960</updated>
     </task>
-    <task id="LOCAL-00003" summary="beep">
-      <created>1643344464459</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1643344464459</updated>
-    </task>
-    <task id="LOCAL-00004" summary="beep">
-      <created>1643428157318</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1643428157318</updated>
-    </task>
-    <task id="LOCAL-00005" summary="beep">
-      <created>1643432651357</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1643432651357</updated>
-    </task>
-    <task id="LOCAL-00006" summary="beep">
-      <created>1643433858224</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1643433858224</updated>
-    </task>
-    <task id="LOCAL-00007" summary="beep">
-      <created>1643434821008</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1643434821008</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

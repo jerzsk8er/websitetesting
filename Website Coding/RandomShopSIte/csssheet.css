@@ -2,18 +2,17 @@
     /* background-color: #F2B646; */
     background-color: #EBB387;
     color: white;
-    padding: 4em;
+    padding: 2em;
 }
 
 .container1 {
     width: 100%;
 }
 
-.footer {
-    color: white;
-    width: 100%;
-    padding: 1em;
-    background-color: black;
+#logo {
+    position: absolute;
+    left: 0;
+    margin-left: 3em;
 }
 
 .header .text {
@@ -26,10 +25,13 @@ nav {
     background-color: #EBB387;
 }
 
-.navbar {
-    color: white;
-}
-
 .nav-item {
     margin-left: 2em;
+}
+
+.footer {
+    color: white;
+    width: 100%;
+    padding: 1em;
+    background-color: black;
 }
