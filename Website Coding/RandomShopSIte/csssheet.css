@@ -1,3 +1,7 @@
+/* ---------------
+    Jumbotron
+--------------- */
+
 .container-fluid {
     /* background-color: #F2B646; */
     background-color: #EBB387;
@@ -9,6 +13,21 @@
     width: 100%;
 }
 
+.header .text {
+    text-align: center;
+    font-size: 50px;
+}
+
+#logo {
+    position: absolute;
+    left: 0;
+    margin-left: 3em;
+}
+
+/* -----------
+    Footer
+----------- */
+
 .footer {
     color: white;
     width: 100%;
@@ -16,20 +35,38 @@
     background-color: black;
 }
 
-.header .text {
-    text-align: center;
-    font-size: 50px;
+#email {
+    color: white;
+    font-size: 30px;
 }
+
+/* ---------------
+    Nav Stuff
+--------------- */
 
 nav {
     /* background-color: #664E1F; */
-    background-color: #EBB387;
+    /* background-color: #EBB387; */
+    background-color: black;
 }
 
 .navbar {
     color: white;
+    font-size: 20px;
 }
 
 .nav-item {
-    margin-left: 2em;
+    margin-left: 100%;
+}
+
+.nav-link {
+    color: lightgray;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.nav-link:focus {
+    color: black;
 }
