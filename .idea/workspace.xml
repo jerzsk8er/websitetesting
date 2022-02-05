@@ -7,6 +7,7 @@
     <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -78,6 +80,8 @@
       <workItem from="1643434741248" duration="86000" />
       <workItem from="1643484888379" duration="3749000" />
       <workItem from="1643491084879" duration="3283000" />
+      <workItem from="1643998238136" duration="7858000" />
+      <workItem from="1644044053661" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
