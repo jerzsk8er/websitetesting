@@ -26,6 +26,18 @@
     Footer
 ----------- */
 
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: yellow;
+}
+
+.nav-link a {
+    color: yellow;
+}
+
 .footer {
     color: white;
     width: 100%;
