@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
-      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopSIte/csssheet.css" afterDir="false" />
+    <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="reorganization&#10;  - added and moved files to new folder">
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../facevalues" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\print\WebstormProjects\websitetesting\Website Coding\Cielo Mellow Site" />
       <recent name="C:\Users\Jayden\WebstormProjects\websitetesting\Website Coding\RandomShopSIte\images" />
     </key>
   </component>
@@ -81,6 +81,7 @@
       <workItem from="1643491084879" duration="3283000" />
       <workItem from="1643998238136" duration="7858000" />
       <workItem from="1644044053661" duration="316000" />
+      <workItem from="1649351115685" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643434821008</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="reorganization&#10;  - added and moved files to new folder">
+      <created>1649351295344</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649351295344</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="beep" />
-    <option name="LAST_COMMIT_MESSAGE" value="beep" />
+    <MESSAGE value="reorganization&#10;  - added and moved files to new folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganization&#10;  - added and moved files to new folder" />
   </component>
 </project>
