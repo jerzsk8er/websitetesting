@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" afterDir="false" />
     </list>
@@ -83,7 +84,7 @@
       <workItem from="1643998238136" duration="7858000" />
       <workItem from="1644044053661" duration="316000" />
       <workItem from="1649351115685" duration="347000" />
-      <workItem from="1649435266286" duration="871000" />
+      <workItem from="1649435266286" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649436098238</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="beep">
+      <created>1649436185145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649436185145</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
