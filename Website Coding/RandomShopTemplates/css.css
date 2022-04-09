@@ -1,5 +1,13 @@
 .header {
-    background-color: aquamarine;
+    background-color: black;
     text-align: center;
+    color: white;
+}
 
+.text {
+    font-size: 30px;
+}
+
+.text1 {
+    text-align: center;
 }

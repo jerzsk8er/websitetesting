@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="beep">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_7_2022_12_41_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_7_2022_12_41_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2022_12_15_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2022_12_15_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2022_12_15_PM__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2022_12_15_PM__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" afterDir="false" />
@@ -44,11 +48,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../facevalues" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,7 +64,6 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\print\WebstormProjects\websitetesting\Website Coding\Cielo Mellow Site" />
       <recent name="C:\Users\Jayden\WebstormProjects\websitetesting\Website Coding\RandomShopSIte\images" />
     </key>
   </component>
@@ -83,8 +88,6 @@
       <workItem from="1643491084879" duration="3283000" />
       <workItem from="1643998238136" duration="7858000" />
       <workItem from="1644044053661" duration="316000" />
-      <workItem from="1649351115685" duration="347000" />
-      <workItem from="1649435266286" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -135,35 +138,7 @@
       <option name="project" value="LOCAL" />
       <updated>1643434821008</updated>
     </task>
-    <task id="LOCAL-00008" summary="reorganization&#10;  - added and moved files to new folder">
-      <created>1649351295344</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1649351295344</updated>
-    </task>
-    <task id="LOCAL-00009" summary="added bootstrap">
-      <created>1649351357010</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1649351357010</updated>
-    </task>
-    <task id="LOCAL-00010" summary="beep">
-      <created>1649436098238</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1649436098238</updated>
-    </task>
-    <task id="LOCAL-00011" summary="beep">
-      <created>1649436185145</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1649436185145</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,8 +156,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reorganization&#10;  - added and moved files to new folder" />
-    <MESSAGE value="added bootstrap" />
     <MESSAGE value="beep" />
     <option name="LAST_COMMIT_MESSAGE" value="beep" />
   </component>
