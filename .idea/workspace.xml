@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="previous unlisted updates&#10;- added header&#10;- added columns&#10;- added rows&#10;- changed color of header to black&#10;- changed text color to white in header" />
+    <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Website Coding/RandomShopTemplates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2021-Javascript-Test-Prep" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,6 +84,7 @@
       <workItem from="1643491084879" duration="3283000" />
       <workItem from="1643998238136" duration="7858000" />
       <workItem from="1644044053661" duration="316000" />
+      <workItem from="1649465429385" duration="1400000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -137,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649463919236</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="workspace.xml addition">
+      <created>1649463951586</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649463951586</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="beep" />
     <MESSAGE value="previous unlisted updates&#10;- added header&#10;- added columns&#10;- added rows&#10;- changed color of header to black&#10;- changed text color to white in header" />
-    <option name="LAST_COMMIT_MESSAGE" value="previous unlisted updates&#10;- added header&#10;- added columns&#10;- added rows&#10;- changed color of header to black&#10;- changed text color to white in header" />
+    <MESSAGE value="workspace.xml addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml addition" />
   </component>
 </project>
