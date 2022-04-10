@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="- added image card&#10;- adding card top + bottom">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="551a88a9-ffac-472a-8096-c2b60e222f33" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,7 @@
       <workItem from="1643491084879" duration="3283000" />
       <workItem from="1643998238136" duration="7858000" />
       <workItem from="1644044053661" duration="316000" />
-      <workItem from="1649465429385" duration="2212000" />
+      <workItem from="1649465429385" duration="2237000" />
     </task>
     <task id="LOCAL-00001" summary="beep">
       <created>1643343331114</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649467651691</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace.xml additions">
+      <created>1649467679209</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649467679209</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +181,7 @@
     <MESSAGE value="previous unlisted updates&#10;- added header&#10;- added columns&#10;- added rows&#10;- changed color of header to black&#10;- changed text color to white in header" />
     <MESSAGE value="workspace.xml addition" />
     <MESSAGE value="- added image card&#10;- adding card top + bottom" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added image card&#10;- adding card top + bottom" />
+    <MESSAGE value="workspace.xml additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml additions" />
   </component>
 </project>
